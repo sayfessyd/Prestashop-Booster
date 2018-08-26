@@ -1,0 +1,25 @@
+#datainfo {
+    margin-top: 5px;
+    font-size: 11px;
+    display: none;
+}
+
+.sizenow,
+.sizereduction {
+    font-weight: bold
+}
+
+a#boost_me, a#all_selected, a#refresh {
+    margin-right: 5px;
+    height: 100%;
+    font-size: 1rem;
+    line-height: 2.2rem;
+}
+
+span.norework {
+    color: #01AFF0;
+}
+
+span.rework {
+    color: red;
+}
